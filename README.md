@@ -1,4 +1,4 @@
-# Student-Registration-Form-Using-Python-Tkinter
+# Student-Registration-Form-Using-Python-Tkinter-MYSQL
 A student registration form is used to register students for a course
 In this Registration form Students can provide their Name,DOB,USN,Branch,Section, Address and contact information
 Technologies Used in this Project are:
